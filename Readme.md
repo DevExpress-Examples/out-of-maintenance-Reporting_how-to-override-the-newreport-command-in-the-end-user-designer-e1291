@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [XtraForm1.vb](./VB/XtraForm1.vb))
+* [Report1.cs](./CS/Report1.cs) (VB: [Report1.vb](./VB/Report1.vb))
+* [Report2.cs](./CS/Report2.cs) (VB: [Report2.vb](./VB/Report2.vb))
+* [XtraForm1.cs](./CS/XtraForm1.cs) (VB: [XtraForm1.vb](./VB/XtraForm1.vb))
+<!-- default file list end -->
 # How to override the NewReport command in the End-User Designer
 
 
